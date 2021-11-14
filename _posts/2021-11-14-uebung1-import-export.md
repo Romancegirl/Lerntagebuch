@@ -26,13 +26,17 @@ stimmen nicht überein. Auf der HTML-Seite steht 1939-1969 und in ArchiesSpace s
 Ungleichheit dieser lässt bei mir Verwirrung und Unsicherheit aufkommen. Die Biographical History ist in beiden Ansichten vorhanden und zu lesen. Die Scope and Contents of the
 Collection (was genau vorhanden ist), ist in der HTML Ansicht detaillierter aufgeführt, auch mit Unterteilungen. In AchrivesSpace erfährt man dagegen nur ganz grob eine
 Auflistung darüber, was es beinhaltet. Ich mache dazu ein Beispiel:
+
 Archivesspace: 
 ![image](https://user-images.githubusercontent.com/90834630/141674675-cd5687df-f189-470b-aa30-2e30720c4df3.png)
 Quelle: localhost:8080/resources/101#tree::resource_101
 
+
 HTML-Seite:
+
 ![image](https://user-images.githubusercontent.com/90834630/141674689-baa35eb1-69f5-4306-a19b-f2609c283882.png)
 Quelle: https://library.syr.edu/digital/guides/a/aaie.htm
+
 
 Die Aufgabe ist es beide ganz grob zu vergleichen, weswegen ich nicht mehr Beispiele aufzähle. Ich kann aber allgemein festhalten,
 dass ich persönlich die Ansicht in HTML bevorzuge, weil sie mir unter anderem auch kompakter erscheint und ich besser den Inhalt sehe. In ArchivesSpace gibt es für mich daneben
@@ -57,5 +61,6 @@ Bist du auch mitgekommen, liebes Tagebuch?
 
 
 Odpočiň si a na příští setkání.
+
 tvoje Barča
 
