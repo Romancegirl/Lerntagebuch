@@ -33,10 +33,13 @@ Quelle: localhost:8080/resources/101#tree::resource_101
 
 
 
+
+
 HTML-Seite:
 
 ![image](https://user-images.githubusercontent.com/90834630/141674689-baa35eb1-69f5-4306-a19b-f2609c283882.png)
-  Quelle: https://library.syr.edu/digital/guides/a/aaie.htm
+
+Quelle: https://library.syr.edu/digital/guides/a/aaie.htm
 
 
 Die Aufgabe ist es beide ganz grob zu vergleichen, weswegen ich nicht mehr Beispiele aufzähle. Ich kann aber allgemein festhalten,
