@@ -35,5 +35,5 @@ Wäre ich nur von Anfang an auf diese Idee gekommen, dann wäre ich viel schnell
 Wichtig ist nur, dass es geklappt hat, stimmts?
 
 
-Na viděnou.
+Na viděnou
 tvoje Barča
