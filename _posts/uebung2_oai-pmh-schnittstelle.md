@@ -36,4 +36,5 @@ Wichtig ist nur, dass es geklappt hat, stimmts?
 
 
 Na viděnou.
+
 tvoje Barča
