@@ -26,8 +26,8 @@ Es ist aber schon sehr interessant, wie viel angepasst werden kann und das, was 
 Alles, was in diesen Dateien angepasst wird, sollte danach auf der im Browser geladenen Seite von VuFind auch geändert worden sein. So können z.B. diverse Filtermöglichkeiten oder Anzeigedarstellungen verändert werden. 
 
 Die Dateien, die wir bearbeitet habe, hatten die Endung *".ini"* und einmal *".yaml"*. Ich habe diese Endungen noch nie gesehen oder gehört. Weisst Du vielleicht, um was für einen Dateityp es sich dabei genau handelt? <br>
-Nach kurzer Recherche habe ich herausgefunden, dass eine Datei mit der Endung *".ini"* eine Systemdatei ist; genauer gesagt eine Initialisierungsdatei eines Programms. ([Quelle *heise online*](https://www.heise.de/tipps-tricks/Dateiendungen-im-Ueberblick-4424386.html)) <br>
-Eine *".yaml"*-Datei ist eine Datei im YAML-Format, das zur Datenserialisierung verwendet wird. ([Quelle *DateiWiki*](https://datei.wiki/extension/yaml))
+Nach kurzer Recherche habe ich herausgefunden, dass eine Datei mit der Endung *".ini"* eine Systemdatei ist; genauer gesagt eine Initialisierungsdatei eines Programms. (Quelle: [*heise online*](https://www.heise.de/tipps-tricks/Dateiendungen-im-Ueberblick-4424386.html)) <br>
+Eine *".yaml"*-Datei ist eine Datei im YAML-Format, das zur Datenserialisierung verwendet wird. (Quelle: [*DateiWiki*](https://datei.wiki/extension/yaml))
 
 Měj se dobře. <br>
 tvoje Barča
