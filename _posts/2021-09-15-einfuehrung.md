@@ -26,6 +26,6 @@ Ganz einfach gesagt: Im Kursnamen befindet sich das Wort Bibliothek. Also hoffe 
 Ja.. jetzt habe ich Dir ein wenig über mich und meine Erwartungen erzählt. Ich hoffe, Du kannst Dich mit mir anfreunden. :)
 Du hörst bald wieder von mir, wenn wir gemeinsam die Lehreinheiten rekapitulieren lassen.
 
-Bis dahin:
-Vše nejlepší
+Bis dahin: <br>
+Vše nejlepší <br>
 tvoje Barča
