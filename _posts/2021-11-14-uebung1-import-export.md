@@ -25,12 +25,12 @@ Auflistung darüber, was es beinhaltet. Ich mache dazu ein Beispiel:
 
 ArchivesSpace: 
 ![image](https://user-images.githubusercontent.com/90834630/141674675-cd5687df-f189-470b-aa30-2e30720c4df3.png)
-Quelle: localhost:8080/resources/101#tree::resource_101
+Quelle: [localhost:8080/resources/101#tree::resource_101](localhost:8080/resources/101#tree::resource_101)
 
 
 HTML-Seite: <br>
 ![image](https://user-images.githubusercontent.com/90834630/141674689-baa35eb1-69f5-4306-a19b-f2609c283882.png) <br>
-Quelle: https://library.syr.edu/digital/guides/a/aaie.htm
+Quelle: [https://library.syr.edu/digital/guides/a/aaie.htm](https://library.syr.edu/digital/guides/a/aaie.htm)
 
 Die Aufgabe ist es, beide ganz grob zu vergleichen, weswegen ich nicht mehr Beispiele aufzähle. Ich kann aber allgemein festhalten, dass ich persönlich die Ansicht in HTML bevorzuge, weil sie mir unter anderem auch kompakter erscheint und ich besser den Inhalt sehe. In ArchivesSpace gibt es für mich zu viele Anmerkundaneben und der eigentliche Inhalt resp. Text folgt erst untergeordnet in einem spearaten Feld (siehe z.B. obiges Bild).
 
