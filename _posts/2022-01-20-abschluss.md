@@ -7,7 +7,7 @@ Milý deníčku,
 
 Děkuju. <br>
 Entschuldigung, ich meine: Danke. Danke dafür, dass Du mir die letzten Monate zu Seite gestanden hast. <br>
-Wir hatten eine ziemlich aufregende und lehrleiche Zeit miteinander, findest Du nicht auch?
+Wir hatten eine ziemlich aufregende und lehrreiche Zeit miteinander, findest Du nicht auch?
 
 In diesem allerletzten Eintrag würde ich gerne mit Dir zusammen unsere Erfahrungen rekapitulieren lassen. Was denkst Du, sollen wir beginnen?
 
@@ -20,7 +20,7 @@ In den neun Vorlseungen, die wir hatten, haben wir folgende sieben Themen behand
 - Repository-Software für Publikationen und Forschungsdaten
 - Metadaten modellieren und Schnittstellen nutzen
 - Suchmaschinen und Discovery-Systeme
-- Linked Data
+- Linked Data <br>
 Ausserdem durften wir auch noch einem Gastreferat zu ALMA beiwohnen.
 
 Ich habe während dieses Moduls nicht nur viel theoretisches Wissen erlangt, sondern durfte auch unzählige Softwares, Programme, Applikationen, etc. kennenlernen; das sowohl theoretisch als auch praktisch durch Übungen. Ich gestehe, dass ich keine davon bisher kannte oder gar je von ihnen gehört hatte, aber es half mir sowohl die Theorie besser zu verstehen, als auch Einblicke darüber 
