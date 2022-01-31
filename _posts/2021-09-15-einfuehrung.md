@@ -25,9 +25,8 @@ so einige "informatische" Fächer auf mich zukommen werden; wahrscheinlich desha
 ausführen.
 
 Um trotzdem die Frage zu beantworten: Bibliotheks- und Archivinformatik hört sich für mich nach etwas an, wo man sich mit der Infrastruktur und den verwendeten Systemen in diesen Einrichtungen beschäftigt. Sollte ich damit richtig liegen, dann kann ich über meine Erwartungen Folgendes sagen: <br>
-Das es mein Ziel ist, nach dem Studium in einer Bibliothek zu arbeiten, erhoffe ich mir mehr Wissen darüber anzueignen, was für Systeme benutzt werden und wie diese funktionieren. Vielleicht kann ich es Hintergrundwissen nennen? Hmm.. nein, das ist nicht ganz das richtige Wort, aber Du verstehst sicher, was ich damit sagen möchte. <br>
+Da es mein Ziel ist, nach dem Studium in einer Bibliothek zu arbeiten, erhoffe ich mir mehr Wissen darüber anzueignen, was für Systeme benutzt werden und wie diese funktionieren. Vielleicht kann ich es Hintergrundwissen nennen? Hmm.. nein, das ist nicht ganz das richtige Wort, aber Du verstehst sicher, was ich damit sagen möchte. <br>
 Ganz einfach formuliert: Im Kursnamen befindet sich das Wort Bibliothek. Also hoffe ich, etwas dazuzulernen, das mir für die Arbeit in einer Bibliothek nützlich sein könnte.
-Und ich kann Dir zum Abschluss noch Folgendes sagen: Ich habe mich im Vorfeld auf dieses Modul gefreut.
 
 Ja.. jetzt habe ich Dir ein wenig über mich und meine Erwartungen erzählt. Ich hoffe, Du kannst Dich mit mir anfreunden. :) <br>
 Du hörst bald wieder von mir, wenn wir gemeinsam die Lehreinheiten rekapitulieren lassen.
