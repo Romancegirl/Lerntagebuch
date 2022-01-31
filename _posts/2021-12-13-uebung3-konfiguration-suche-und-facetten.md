@@ -15,10 +15,10 @@ Die eigentliche Übung bestand dann darin, sich ein Video anzusehen. Es ging um 
 Ich habe das Video verlinkt, wie es Dir bestimmt aufgefallen ist; falls du auch Lust hast, es dir anzusehen :)
 
 Es ist eine gute dreiviertel Stunde lang, die Du einem netten Mann zuhören und zuschauen kannst, wie er die oben erwähnten Einstellungen erklärt. <br>
-Ich muss ehrlich sagen, mir war er manchmal etwas zu schnell, ich musste öfters zurückspulen, um es auch wirklich nachzuvollziehen zu können, was er tut und meint, aber schlussendlich kann ich sagen, dass ich das Meiste, das er erklärte, verstanden habe. Bis auf den Schluss, wo er etwas über eine OCLC-Nummer redete. 
+Ich muss ehrlich sagen, mir war er manchmal etwas zu schnell, ich musste öfters zurückspulen, um es auch wirklich nachvollziehen zu können, was er tut und meint, aber schlussendlich kann ich sagen, dass ich das Meiste, das er erklärte, verstanden habe. Bis auf den Schluss, wo er etwas über eine OCLC-Nummer redete. 
 
 Ich habe gleichzeitig versucht bei mir auf dem Server auch mitzumachen; das, was er tat. Meine Änderungen/Anpassungen waren aber schlussendlich in der Suche nicht sichtbar. <br>
-Damit die Dateien einfach bearbeitet werden konnten, musste ich zuerst dem Account eine Dateiberechtigung erteilen. Das habe ich auch getan, wahrscheinlich hat dabei aber etwas nicht richtig geklappt. Ich finde es jetzt nicht so schlimm, denn ich konnte immerhin im Video alles bei dem Mann mitverfolgen. 
+Damit die Dateien bearbeitet werden konnten, musste ich zuerst dem Account eine Dateiberechtigung erteilen. Das habe ich auch getan, wahrscheinlich hat dabei aber etwas nicht richtig geklappt. Ich finde es jetzt nicht so schlimm, denn ich konnte immerhin im Video alles bei dem Mann mitverfolgen.
 
 Die zu bearbeitenden Dateien sind jeweils etwas unübersichtlich. Sehr viele Zeilen und wenn ich niemanden gehabt hätte, der es mir vorführt und erklärt, was gerade passiert, 
 hätte ich gar nichts kapiert. <br>
@@ -27,7 +27,7 @@ Alles, was in diesen Dateien angepasst wird, sollte danach auf der im Browser ge
 
 Die Dateien, die wir bearbeitet habe, hatten die Endung *".ini"* und einmal *".yaml"*. Ich habe diese Endungen noch nie gesehen oder gehört. Weisst Du vielleicht, um was für einen Dateityp es sich dabei genau handelt? <br>
 Nach kurzer Recherche habe ich herausgefunden, dass eine Datei mit der Endung *".ini"* eine Systemdatei ist; genauer gesagt eine Initialisierungsdatei eines Programms. (Quelle: [*heise online*](https://www.heise.de/tipps-tricks/Dateiendungen-im-Ueberblick-4424386.html)) <br>
-Eine *".yaml"*-Datei ist eine Datei im YAML-Format, das zur Datenserialisierung verwendet wird. (Quelle: [*DateiWiki*](https://datei.wiki/extension/yaml))
+Eine *".yaml"*-Datei ist eine Datei in YAML-Format. Dieses wird zur Datenserialisierung verwendet. (Quelle: [*DateiWiki*](https://datei.wiki/extension/yaml))
 
 Měj se dobře. <br>
 tvoje Barča
